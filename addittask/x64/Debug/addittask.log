@@ -1,0 +1,3 @@
+﻿  hashtab.c
+D:\проги\addittask\addittask\hashtab.c(145,8): warning C4101: lastindex: неиспользованная локальная переменная
+  addittask.vcxproj -> D:\проги\addittask\x64\Debug\addittask.exe
